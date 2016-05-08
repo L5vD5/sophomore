@@ -1,0 +1,13 @@
+*Instruction Cycle 의 5 단계  ppt 참고
+
+Instruction Fetch
+
+
+
+*Class 당 Cycle 횟수, Cycle clock 등을 주고
+
+CPI 계산
+
+MIPS 계산
+
+Execution Time 계산
